@@ -12,6 +12,4 @@ public interface IElement  {
     //Type Type { get; set; }
 
     IElementContext ElementContext { get;set; }
-
-    void OnInit();
 }

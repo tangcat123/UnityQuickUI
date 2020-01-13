@@ -25,9 +25,4 @@ public class MText : Text, IElement
         }
     }
 
-
-    public void OnInit()
-    {
-        
-    }
 }

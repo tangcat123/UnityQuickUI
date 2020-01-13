@@ -25,9 +25,4 @@ public class MImage : Image, IElement
         }
     }
 
-
-    public void OnInit()
-    {
-
-    }
 }
